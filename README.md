@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Aung Pyae Khant😉. You can call me Lil-Snow but I'm not a rapper😆
+- I'm currently a student at Microverse😎
+- The work don't stop!👨‍💻 The grind don't stop!🔥
+
 
 <!--
 **lilskyex0x/lilskyex0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
