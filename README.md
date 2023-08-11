@@ -6,14 +6,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Web Developer, Programmer, Tech Geek, Gamer
 --------------------------------------------------
 
-A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse and learning new things.
+A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse, collaborating on open-source projects on GitHub, and learning new things every day.
 
 <img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
 
 *   🌍  I'm based in Myanmar
 *   🖥️  See my portfolio at [Website](http://lilskyex0x.github.io/Project--My-personal-portfolio/)
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
-*   🧠  I'm learning Front-end development, JavaScript, Ruby on Rails
+*   🧠  I'm learning Front-end development, JavaScript, and React.
 *   🤝  I'm open to collaborating on any kind of projects
 *   ⚡  I'm handsome btw :3 just kidding
 
