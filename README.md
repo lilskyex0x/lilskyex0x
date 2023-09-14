@@ -15,7 +15,6 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
 *   🧠  I'm learning Front-end development, JavaScript, and React.
 *   🤝  I'm open to collaborating on any kind of projects
-*   ⚡  I'm handsome btw :3 just kidding
 
 <a href="https://www.github.com/lilskyex0x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a> 
