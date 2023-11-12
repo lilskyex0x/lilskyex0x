@@ -1,6 +1,6 @@
 <img align="center" alt="introduction picture" src="Lil_Snow.gif" width="1000"/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aung Pyae Khant
+Hi :wave: My name is Aung Pyae Khant
 =======================================================================================================================================
 
 Junior Web Developer, Programmer, Tech Geek, Gamer
@@ -11,9 +11,9 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 <img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
 
 *   🌍  I'm based in Myanmar
+*   🧠  I'm learning Front-end development, JavaScript, and React.
 *   🖥️  See my portfolio at [Website](http://lilskyex0x.github.io/Project--My-personal-portfolio/)
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
-*   🧠  I'm learning Front-end development, JavaScript, and React.
 *   🤝  I'm open to collaborating on any kind of projects
 
 <a href="https://www.github.com/lilskyex0x" target="_blank" rel="noreferrer"><img
