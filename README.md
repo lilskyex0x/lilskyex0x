@@ -14,8 +14,8 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 *   🧠  I'm learning Front-end development, JavaScript, and React.
 *   🖥️  See my portfolio at [Website](http://lilskyex0x.github.io/Project--My-personal-portfolio/)
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
-*   🤝  I'm open to collaborating on any kind of projects
 *   🏆  I'm one of [the top GitHub contributors in Myanmar](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/myanmar.md)
+*   🤝  I'm open to collaborating on any kind of projects
 
 <a href="https://www.github.com/lilskyex0x" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a> 
