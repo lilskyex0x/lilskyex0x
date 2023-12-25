@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lilskyex0x"><img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" /></a>
 <a href="https://github.com/lilskyex0x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilskyex0x&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/lilskyex0x"><img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" /></a>
 <a href="http://www.github.com/lilskyex0x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lilskyex0x&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <b>Top Repositories</b>
