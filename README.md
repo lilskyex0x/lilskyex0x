@@ -45,7 +45,8 @@ src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-th
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/lilskyex0x/Module1--CapstoneProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lilskyex0x&repo=Module1--CapstoneProject&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a><a href="https://github.com/lilskyex0x/Project--My-personal-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lilskyex0x&repo=Project--My-personal-portfolio&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/lilskyex0x/Module1--CapstoneProject" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lilskyex0x&repo=Module1--CapstoneProject&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" />
+<a href="https://github.com/lilskyex0x/Project--My-personal-portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=lilskyex0x&repo=Project--My-personal-portfolio&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en" /></div><br /><br />
 
 <br /><br /><br /><br /><br />
 
