@@ -40,16 +40,16 @@ src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-th
 ### 🏆 Certifications 
 
 <div>
-  <a href='https://www.credential.net/1e20af02-73ee-4cdb-8340-8216f0e7f00a#gs.5im8br'>
+  <a href='https://www.credential.net/0741edd8-5034-4c36-b4c7-e5d5c9056056#gs.499rnz'>
     <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/87962249'width="130" height="130"/>
   </a>
-  <a href='https://www.credential.net/ffe520be-d8e1-4220-84b7-5547c0712cea#gs.5im6zc'>
+  <a href='https://www.credential.net/88ee7518-0f9c-4f8a-bfe3-39e2c0af78cd#gs.499wix'>
     <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/84377932' width="130" height="130"/>
   </a>
-  <a href='https://www.credential.net/e266b958-f218-46ff-8beb-c3dfa9dc66ae#gs.5im55u'>
+  <a href='https://www.credential.net/35f6eb34-1ccc-44ee-9f44-b9bcbc200ee9#gs.499wmg'>
     <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72351888' width="130" height="130"/>
   </a>
-  <a href='https://www.credential.net/be68a48b-b8bb-4c69-99b6-c6b315deb05f#gs.5im4bs'>
+  <a href='https://www.credential.net/3e26c064-e69e-4982-bddf-faf09e775501#gs.499x1e'>
     <img src='https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/62773947' width="130" height="130"/>
   </a>
 </div>
