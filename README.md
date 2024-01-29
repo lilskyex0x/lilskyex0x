@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" src="Lil_Snow.gif" width="1000"  />
+  <img height="250" src="Lil_Snow.gif" width="800"  />
 </div>
 
 ###
@@ -28,6 +28,10 @@
 
 ###
 
+<img align="right" alt="Coding" width="200" src="https://vectorified.com/image/vector-gif-5.gif">
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -36,10 +40,6 @@ Junior Web Developer, Programmer, Tech Geek, Gamer
 --------------------------------------------------
 
 A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse, collaborating on open-source projects on GitHub, and learning new things every day.
-
-###
-
-<img align="right" alt="Coding" width="250" src="https://vectorified.com/image/vector-gif-5.gif">
 
 ###
 
