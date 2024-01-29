@@ -1,14 +1,47 @@
-<img align="center" alt="introduction picture" src="Lil_Snow.gif" width="1000"/>
+<div align="center">
+  <img height="300" src="Lil_Snow.gif" width="1000"  />
+</div>
 
-Hi :wave: My name is Aung Pyae Khant
-=======================================================================================================================================
+###
+
+<h1 align="center">Hey there 👋 My name is Aung Pyae Khant</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/aung-pyae-khant-932342251/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.twitter.com/LilSn0w45" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://discord.com/users/LiL_SnoW#9308/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <a href="https://microverse-students.slack.com/team/U043S2TV810" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Slack&logo=slack&label=&color=4A154B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="slack logo"  />
+  </a>
+  <a href="https://medium.com/@lilskyex0x.apk" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 Junior Web Developer, Programmer, Tech Geek, Gamer
 --------------------------------------------------
 
 A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse, collaborating on open-source projects on GitHub, and learning new things every day.
 
-<img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
+###
+
+<img align="right" alt="Coding" width="250" src="https://vectorified.com/image/vector-gif-5.gif">
+
+###
 
 *   🌍  I'm based in Myanmar
 *   🧠  I'm learning Front-end development, JavaScript, and React.
@@ -16,24 +49,6 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
 *   🏆  I'm one of [the top GitHub contributors in Myanmar](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/myanmar.md)
 *   🤝  I'm open to collaborating on any kind of projects
-
-<a href="https://www.github.com/lilskyex0x" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-the-badge&color=0891b2&labelColor=27272a" /></a> 
-
-### Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
-                    
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/LiL_SnoW#9308/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/john.zeff.77" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/lilskyex0x" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aung-pyae-khant-932342251/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/LilSn0w45" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/u/lil_snow0_0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
 ---
 
@@ -56,11 +71,71 @@ src="https://img.shields.io/github/followers/lilskyex0x?logo=github&style=for-th
 
 ---
 
-<b>My GitHub Stats</b>
+###
 
-<a href="https://github.com/lilskyex0x" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilskyex0x&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-<a href="http://www.github.com/lilskyex0x"><img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" /></a>
-<a href="http://www.github.com/lilskyex0x"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lilskyex0x&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40" alt="webpack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rspec/rspec-original.svg" height="40" alt="rspec logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+<div align="left">
+  <a href="https://github.com/lilskyex0x">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilskyex0x&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+  <a href="http://www.github.com/lilskyex0x">
+    <img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" />
+  </a>
+  <a href="http://www.github.com/lilskyex0x">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilskyex0x&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  </a>
+</div>
+
+###
 
 <b>Top Repositories</b>
 
