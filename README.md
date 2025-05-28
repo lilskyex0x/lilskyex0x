@@ -26,12 +26,6 @@
   </a>
 </div>
 
-###
-
-<img align="right" alt="Coding" width="200" src="https://vectorified.com/image/vector-gif-5.gif">
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -40,6 +34,12 @@ Junior Web Developer, Programmer, Tech Geek, Gamer
 --------------------------------------------------
 
 A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time undergraduate student at Stamford International University in Thailand. I completed a full-stack web development course from Microverse, an Online Web Development coding bootcamp, where I collaborated on open-source projects on GitHub and learned new things every day. 
+
+###
+
+<img align="right" alt="Coding" width="200" src="https://vectorified.com/image/vector-gif-5.gif">
+
+###
 
 ###
 
