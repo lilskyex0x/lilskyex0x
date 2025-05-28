@@ -39,7 +39,7 @@
 Junior Web Developer, Programmer, Tech Geek, Gamer
 --------------------------------------------------
 
-A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time student at Microverse, collaborating on open-source projects on GitHub, and learning new things every day.
+A self-taught programmer, looking for opportunities to become a full-stack developer. I am currently a full-time undergraduate student at Stamford International University in Thailand. I completed a full-stack web development course from Microverse, an Online Web Development coding bootcamp, where I collaborated on open-source projects on GitHub and learned new things every day. 
 
 ###
 
