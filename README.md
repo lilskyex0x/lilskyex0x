@@ -123,7 +123,7 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="left">
+<div>
   <a href="http://www.github.com/lilskyex0x">
     <img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" />
   </a>
