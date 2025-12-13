@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="250" src="Lil_Snow.gif" width="800"  />
-</div>
+</div> -->
 
 ###
 
