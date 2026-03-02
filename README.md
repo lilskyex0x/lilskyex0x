@@ -43,12 +43,13 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 
 ###
 
-*   🌍  I'm based in Myanmar
-*   🧠  I'm learning Front-end development, JavaScript, and React.
+*   🌍  I'm based in Thailand
+*   🧠  I'm chasing a Bachelor's Degree in Computer Science
+*   📖  I'm studying at Stamford International University
 *   🖥️  See my portfolio at [Website](http://lilskyex0x.github.io/Project--My-personal-portfolio/)
 *   ✉️  You can contact me at [lilskyex0x.apk@gmail.com](mailto:lilskyex0x.apk@gmail.com)
 *   🏆  I'm one of [the top GitHub contributors in Myanmar](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/myanmar.md)
-*   🤝  I'm open to collaborating on any kind of projects
+*   🤝  I'm open to collaborating on any projects
 
 ---
 
@@ -76,8 +77,10 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![CrateDB](https://img.shields.io/badge/CrateDB-009DC7?style=for-the-badge&logo=CrateDB&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div align="left">
+
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -117,16 +120,13 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-</div>
+</div> -->
 
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
 
 <div>
-  <!-- <a href="http://www.github.com/lilskyex0x">
-    <img src="https://github-readme-stats.vercel.app/api?username=lilskyex0x&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="lilskyex0x's GitHub stats" />
-  </a> -->
   <a href="http://www.github.com/lilskyex0x">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=lilskyex0x&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
@@ -135,8 +135,8 @@ A self-taught programmer, looking for opportunities to become a full-stack devel
   </a> -->
 </div>
 
-###
-
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!-- <b>Top Repositories</b>
 
 <div width="100%" align="center">
